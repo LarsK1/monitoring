@@ -5,6 +5,8 @@ repo: monitoring # The name of this repository
 sites:
   - name: Blumagine
     url: https://blumagine.de
+  - name: Monitoring
+    url: https://monitoring.blumagine.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
