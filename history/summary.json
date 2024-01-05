@@ -22,9 +22,9 @@
     "url": "https://monitoring.blumagine.de",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.blumagine.de.ico",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 780,
     "timeMonth": 749,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "E-Mail-Security",
