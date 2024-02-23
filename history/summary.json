@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 1638,
+    "time": 887,
+    "timeDay": 680,
     "timeWeek": 879,
     "timeMonth": 861,
-    "timeYear": 890,
+    "timeYear": 887,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 794,
-    "timeDay": 983,
+    "time": 791,
+    "timeDay": 574,
     "timeWeek": 695,
     "timeMonth": 703,
-    "timeYear": 794,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/security.blumagine.de.ico",
     "slug": "e-mail-security",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
-    "time": 1555,
-    "timeDay": 1836,
-    "timeWeek": 1611,
-    "timeMonth": 1560,
-    "timeYear": 1555,
+    "uptime": "99.98%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1553,
+    "timeDay": 1549,
+    "timeWeek": 1615,
+    "timeMonth": 1565,
+    "timeYear": 1553,
     "dailyMinutesDown": {
-      "2024-02-22": 31
+      "2024-02-22": 25
     }
   }
 ]
