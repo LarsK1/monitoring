@@ -1,7 +1,7 @@
 url: https://security.blumagine.de
-status: up
-code: 200
-responseTime: 1579
-lastUpdated: 2024-03-05T23:15:42.994Z
+status: down
+code: 500
+responseTime: 1757
+lastUpdated: 2024-03-06T13:43:27.040Z
 startTime: 2023-12-13T20:10:01.523Z
 generator: Upptime <https://github.com/upptime/upptime>
