@@ -40,7 +40,7 @@
     "url": "https://security.blumagine.de",
     "icon": "https://icons.duckduckgo.com/ip3/security.blumagine.de.ico",
     "slug": "e-mail-security",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 1454,
     "timeYear": 1535,
     "dailyMinutesDown": {
+      "2024-05-30": 0,
       "2024-02-22": 25
     }
   }
