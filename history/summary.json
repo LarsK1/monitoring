@@ -22,19 +22,19 @@
     "url": "https://monitoring.blumagine.de",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.blumagine.de.ico",
     "slug": "monitoring",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 808,
-    "timeWeek": 690,
-    "timeMonth": 679,
-    "timeYear": 748,
+    "time": 749,
+    "timeDay": 852,
+    "timeWeek": 716,
+    "timeMonth": 686,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2024-06-12": 0
+      "2024-06-12": 6
     }
   },
   {
