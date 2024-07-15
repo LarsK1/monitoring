@@ -4,19 +4,19 @@
     "url": "https://blumagine.de",
     "icon": "https://icons.duckduckgo.com/ip3/blumagine.de.ico",
     "slug": "blumagine",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 666,
-    "timeWeek": 849,
-    "timeMonth": 870,
-    "timeYear": 866,
+    "time": 868,
+    "timeDay": 975,
+    "timeWeek": 904,
+    "timeMonth": 884,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2024-07-15": 0
+      "2024-07-15": 6
     }
   },
   {
