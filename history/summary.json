@@ -44,19 +44,19 @@
     "url": "https://security.blumagine.de",
     "icon": "https://icons.duckduckgo.com/ip3/security.blumagine.de.ico",
     "slug": "e-mail-security",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1467,
-    "timeDay": 1359,
-    "timeWeek": 1450,
-    "timeMonth": 1444,
+    "timeDay": 1353,
+    "timeWeek": 1437,
+    "timeMonth": 1441,
     "timeYear": 1467,
     "dailyMinutesDown": {
-      "2024-11-05": 0,
+      "2024-11-05": 21,
       "2024-02-22": 25
     }
   }
